@@ -6,6 +6,6 @@ button.innerHTML = today.getDate();
 
 
 button.onclick = function(e){
-	window.location.replace("https://jordanlv.github.io/Calendrier/"+today.getDate());
+	window.location.replace("https://Mathix63.github.io/Calendrier/"+today.getDate());
 }
 
